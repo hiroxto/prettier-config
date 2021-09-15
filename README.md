@@ -26,7 +26,7 @@ $ yarn add -D prettier
 
 ```javascript
 module.exports = {
-  ...require("@hiroxto/prettier-config"),
+  ...require('@hiroxto/prettier-config'),
   semi: false,
 };
 ```
