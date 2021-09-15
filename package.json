@@ -1,0 +1,25 @@
+{
+  "name": "@hiroxto/prettier-config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier . --check",
+    "fix": "prettier . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroxto/prettier-config.git"
+  },
+  "author": "hiroxto <hiroxto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroxto/prettier-config/issues"
+  },
+  "homepage": "https://github.com/hiroxto/prettier-config#readme",
+  "prettier": "./index.json",
+  "devDependencies": {
+    "prettier": "^2.4.0"
+  }
+}
