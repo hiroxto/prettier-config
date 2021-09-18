@@ -4,10 +4,10 @@ Prettier の設定
 
 ## 使い方
 
-prettier をインストール。
+prettier と @hiroxto/prettier-config をインストール。
 
 ```shell
-$ yarn add -D prettier
+$ yarn add -D prettier @hiroxto/prettier-config
 ```
 
 `package.json`に`prettier`フィールドを作成し，`@hiroxto/prettier-config`を指定する。
