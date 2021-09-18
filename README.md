@@ -1,13 +1,16 @@
 # @hiroxto/prettier-config
 
-Prettier の設定。
+[![npm version](https://badge.fury.io/js/@hiroxto%2Fprettier-config.svg)](https://badge.fury.io/js/@hiroxto%2Fprettier-config)
+![GitHub Actions test workflow](https://github.com/hiroxto/prettier-config/actions/workflows/test.yml/badge.svg)
+
+Prettierの設定
 
 ## 使い方
 
-prettier をインストール。
+prettierと@hiroxto/prettier-configをインストール。
 
 ```shell
-$ yarn add -D prettier
+$ yarn add -D prettier @hiroxto/prettier-config
 ```
 
 `package.json`に`prettier`フィールドを作成し，`@hiroxto/prettier-config`を指定する。
