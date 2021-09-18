@@ -1,5 +1,8 @@
 # @hiroxto/prettier-config
 
+[![npm version](https://badge.fury.io/js/@hiroxto%2Fprettier-config.svg)](https://badge.fury.io/js/@hiroxto%2Fprettier-config)
+![GitHub Actions test workflow](https://github.com/hiroxto/prettier-config/actions/workflows/test.yml/badge.svg)
+
 Prettier の設定
 
 ## 使い方
