@@ -1,7 +1,7 @@
 {
   "name": "@hiroxto/prettier-config",
   "version": "1.0.2",
-  "description": "",
+  "description": "Prettierの設定",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
