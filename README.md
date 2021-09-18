@@ -1,6 +1,6 @@
 # @hiroxto/prettier-config
 
-Prettier の設定。
+Prettier の設定
 
 ## 使い方
 
