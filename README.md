@@ -3,11 +3,11 @@
 [![npm version](https://badge.fury.io/js/@hiroxto%2Fprettier-config.svg)](https://badge.fury.io/js/@hiroxto%2Fprettier-config)
 ![GitHub Actions test workflow](https://github.com/hiroxto/prettier-config/actions/workflows/test.yml/badge.svg)
 
-Prettier の設定
+Prettierの設定
 
 ## 使い方
 
-prettier と @hiroxto/prettier-config をインストール。
+prettierと@hiroxto/prettier-configをインストール。
 
 ```shell
 $ yarn add -D prettier @hiroxto/prettier-config
